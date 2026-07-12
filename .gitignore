@@ -98,6 +98,9 @@ dist/
 
 Logs/
 
+# Generated content mirror from sync script
+/app/public/content/
+
 # Content directories are now external
 # Remove these from ignore so they're tracked in git
 # pages/
