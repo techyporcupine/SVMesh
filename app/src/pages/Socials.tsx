@@ -1,6 +1,6 @@
-import { Card, Box, Stack } from "@mui/material";
+import { Box, Stack } from "@mui/material";
 import { SimpleHero, PageSection, StyledText } from "../components/ui";
-import { discordLogoImage, sharedHeroImage } from "../config/images";
+import { sharedHeroImage } from "../config/images";
 import { SOCIAL_LINKS } from "../config/social";
 import SocialCard from "../components/ui/SocialCard";
 
