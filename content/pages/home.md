@@ -2,7 +2,6 @@
 title: "We mesh well together."
 subtitle: "We're a community group dedicated to connecting the Susquehanna Valley together using low-power, long-range radio devices."
 heroImage: "hawk-watch.webp"
-rightImage: "meshtastic-powered.png"
 rightImageAlt: "Meshtastic Powered"
 attributionUrl: ""
 ---
